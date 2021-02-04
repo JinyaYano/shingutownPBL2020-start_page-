@@ -1,24 +1,25 @@
 @charset "UTF-8";
 
 .header{
-   background-color:#00bfff
+   background-color:#00bfff;
    .header-logo{
       padding-top:20px;
       text-align:left;
    }
 }
 
-.main{
-   . copy-container{
+. copy-container{
+   text-align:center;
       h1{
          border-bottom:5px solid #00bfff
-         text-align:center;
-     .span{
+   }
+      span{
         color:red;
    }
 }
-   }
+   
 .contents{
+   text-align:center;
    .contents-item{
       text-align:center;
       heigt:270px;
@@ -29,10 +30,10 @@
 .footer{
    background-color:#00bfff;
    .footer-logo{
-      float:left;
+      text-align:left;
    }
    .footer-list {
-      text-align:rigt;
+      text-align:right;
       li{
       list-style:none;
    }  
