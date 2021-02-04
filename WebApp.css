@@ -2,7 +2,7 @@
 
 .header{
    background-color:#00bfff;
-   height:100px;
+   height:80px;
 }
 .header-logo{
       padding-top:20px;
@@ -11,14 +11,14 @@
 
 
 .main{
-   height:650px;
+   height:600px;
 }
 . copy-container{
    text-align:center;
 }
 h1{
          text-align:center;
-         border-bottom:5px solid #00bfff;
+         border-bottom:5px #00bfff;
          color:red
    }
    
@@ -32,7 +32,7 @@ h1{
 
 .footer{
    background-color:#00bfff;
-   height:250px;
+   height:200px;
 }
 .footer-logo{
       text-align:left;
