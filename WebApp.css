@@ -8,28 +8,33 @@
    }
 }
 
-. copy-container{
-   border-bottom:5px solid #00bfff
-   text-align:center;
-   
-   .span{
-      color:red;
+.main{
+   . copy-container{
+      h1{
+         border-bottom:5px solid #00bfff
+         text-align:center;
+     .span{
+        color:red;
    }
 }
-
-.contents-item{
-   text-align:center;
-   heigt:270px;
+   }
+.contents{
+   .contents-item{
+      text-align:center;
+      heigt:270px;
+}
+   }   
 }
 
 .footer{
    background-color:#00bfff;
    .footer-logo{
-   float:left;
+      float:left;
    }
+   .footer-list {
+      text-align:rigt;
+      li{
+      list-style:none;
+   }  
 }
-
-.footer-list li{
-   list-style:none;
-   float:right;
-}
+   }
