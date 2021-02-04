@@ -11,14 +11,13 @@
 
 
 .main{
-   height:600px;
+   height:500px;
 }
 . copy-container{
    text-align:center;
 }
 h1{
          text-align:center;
-         border-bottom:3px solid #00bfff;
          color:red
    }
    
@@ -27,12 +26,12 @@ h1{
 }
 .contents-item{
       text-align:center;
-      heigt:250px;
+      heigt:200px;
 }
 
 .footer{
    background-color:#00bfff;
-   height:200px;
+   height:150px;
 }
 .footer-logo{
       text-align:left;
