@@ -11,15 +11,14 @@
 
 
 .main{
-   height:700px;
+   height:650px;
 }
 . copy-container{
    text-align:center;
 }
 h1{
          text-align:center;
-         border-bottom:5px solid #00bfff
-         color:black;
+         border-bottom:5px solid #00bfff;
    }
 span{
         color:red;
@@ -30,12 +29,12 @@ span{
 }
 .contents-item{
       text-align:center;
-      heigt:270px;
+      heigt:250px;
 }
 
 .footer{
    background-color:#00bfff;
-   height:270px;
+   height:250px;
 }
 .footer-logo{
       text-align:left;
